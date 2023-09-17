@@ -590,7 +590,7 @@ int main()
         case 2:
         while(!done1)
         {
-        printf("\n In OPD : \n Enter your choice: \n 1.New Entry \t 2.Edit/Update \t 3.Search \t 4.Display \t 5.Generate Bill \t 6.Exit\n");
+        printf("\n In Covid-Ward : \n Enter your choice: \n 1.New Entry \t 2.Edit/Update \t 3.Search \t 4.Display \t 5.Generate Bill \t 6.Exit\n");
         scanf("%d",&choice);
         switch(choice)
         {
